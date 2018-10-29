@@ -1,1 +1,3 @@
-"ahmad jutt"
+Name :"ahmad jutt"
+Email :"ahmadjutt739@gmail"
+Faculty of information technology
